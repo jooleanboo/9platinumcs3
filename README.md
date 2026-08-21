@@ -12,3 +12,4 @@
 ### Chinese Zodiac Activity
 [View my Chinese Zodiac Activity](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/zodiacPlatinumBonaobra.md)
 ### ILA 3-1: Applying the Four Pillars of OOP
+[View my ILA 3-1 Activity](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/ila_oop.md)
