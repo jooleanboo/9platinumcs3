@@ -17,7 +17,8 @@ It represents a musical instrument that produces sound through strings. It store
 | play_string(string_number: int) | Plays a specific string using its number |
 | display_info() | Displays the instrument's information |
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](images/classDiagram.png) <img width="278" height="166" alt="image" src="https://github.com/user-attachments/assets/180cc1c2-8e25-43e4-aaa9-f33a4c242568" />
+
 ## Design Explanation
 ### Why did you choose this class?
 I chose the StringInstrument class because string instruments are commonly used in music and have different features depending on the instrument. I wanted to create a class that can represent different string instruments because I can play these instruments.
