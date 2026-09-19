@@ -17,9 +17,11 @@ The overall design of my StringInstrument class stayed the same because the orig
 
 [View Python Source](classImplementation.py)
 ## Test Run
-![Test Run](images/classTestRun.png)
+![Test Run](images/classTestRun.png) <img width="959" height="491" alt="image" src="https://github.com/user-attachments/assets/558a40a3-f535-4946-932e-d0d41941f197" />
+
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+![Object Diagram](images/objectDiagram.png) <img width="383" height="245" alt="image" src="https://github.com/user-attachments/assets/3e3f7adc-5216-437d-8215-38e5bc54c11b" />
+
 ## Analysis
 ### Why did you make your chosen attribute private?
 I made is_tuned private because its value represents the tuning state of the instrument. If other parts of the program could change it directly, they could incorrectly mark an instrument as tuned without actually tuning it. Making it private allows the tune()method to control when its value changes.
