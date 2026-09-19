@@ -17,3 +17,5 @@
 [View my OOPAct: Part I](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/classObjectUML.md)
 ### OOPAct: Part II
 [View my OOPAct: Part II](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/classAttributesMethods.md)
+### OOPAct: Part III
+[View my OOPAct: Part III](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/classRelationships.md)
