@@ -15,3 +15,5 @@
 [View my ILA 3-1 Activity](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/ila_oop.md)
 ### OOPAct: Part I
 [View my OOPAct: Part I](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/classObjectUML.md)
+### OOPAct: Part II
+[View my OOPAct: Part II](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/classAttributesMethods.md)
