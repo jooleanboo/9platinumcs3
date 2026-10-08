@@ -21,3 +21,9 @@
 [View my OOPAct: Part III](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/classRelationships.md)
 ### OOPAct: Part IV
 [View my OOPAct: Part IV](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/advancedRelationships.md)
+
+---
+# Quarter 2
+## Activities
+
+[SG8 activity](./quarter2/sg8_encapsulation.py)
