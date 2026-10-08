@@ -26,4 +26,4 @@
 # Quarter 2
 ## Activities
 
-[SG8 activity](./quarter2/sg8_encapsulation.py)
+[SG8 activity](./quarter_2/sg8_encapsulation.py)
