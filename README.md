@@ -10,7 +10,8 @@
 # Quarter 2
 ## Activities
 ### SG8 Encapsulation
-[SG8 activity](./quarter_2/sg8_encapsulation.py)
+[Here is my SG8 activity](./quarter_2/sg8_encapsulation.py)
+### SG9 Inheritance
 
 ---
 # Quarter 1
