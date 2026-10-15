@@ -12,6 +12,7 @@
 ### SG8 Encapsulation
 [View my SG8 Activity](./quarter_2/sg8_encapsulation.py)
 ### SG9 Inheritance
+[View my SG9 Activity](./quarter_2/sg9_inheritance.py)
 
 ---
 # Quarter 1
