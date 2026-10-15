@@ -1,5 +1,5 @@
 # Computer Science 3 Portfolio
-## Student Information
+## Info on Salud Invito
 **Name:** Julian Xander Bonaobra
 
 **Section:** Platinum
@@ -10,9 +10,9 @@
 # Quarter 2
 ## Activities
 ### SG8 Encapsulation
-[View my SG8 Activity](./quarter_2/sg8_encapsulation.py)
+[View my SG8 Activity](quarter_2/sg8_encapsulation.py)
 ### SG9 Inheritance
-[View my SG9 Activity](./quarter_2/sg9_inheritance.py)
+[View my SG9 Activity](quarter_2/sg9_inheritance.py)
 
 ---
 # Quarter 1
