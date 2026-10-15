@@ -5,6 +5,12 @@
 **School Year:** 2026-2027
 
 ---
+# Quarter 2
+## Activities
+### SG8 Encapsulation
+[SG8 activity](./quarter_2/sg8_encapsulation.py)
+
+---
 # Quarter 1
 ## Activities
 ### Computational Thinking Skills
@@ -22,8 +28,4 @@
 ### OOPAct: Part IV
 [View my OOPAct: Part IV](https://github.com/jooleanboo/9platinumcs3/blob/main/quarter%201/advancedRelationships.md)
 
----
-# Quarter 2
-## Activities
 
-[SG8 activity](./quarter_2/sg8_encapsulation.py)
