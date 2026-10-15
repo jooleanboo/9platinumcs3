@@ -3,13 +3,13 @@ class Publication:
         self.title = title              
         self.author = author
 
-    def get_title(self):       #getter for the title of the publication
+    def get_title(self):       #thisa is getter for the title of the publication
         return f"Title: {self.__title}"
     
-    def get_author(self):           #getter for the author of the publication
+    def get_author(self):           #this is the getter for the author of the publication
         return f"Author: {self.__author}"
     
-    def set_title(self, title):       # setter for the title of the publication
+    def set_title(self, title):       # this is the setter for the title of the publication
         self.__title = title
 
     def set_author(self, author):       #setter for the author of the publication
@@ -19,8 +19,8 @@ class Publication:
         print(f"Title: {self.__title}")
         print(f"Author: {self.__author}")
         
- class Book(Publication):       # this is the book class that inherits from the publication class
-    def __init__(self, title, author, number_pages):     #defining book class that takes the title, author, and number of pages
+ class Book(Publication):       # this is the book class from the publication class
+    def __init__(self, title, author, number_pages):     #defining the ook class that takes the title, author, and number of pages
         Publication.__init__(self, title, author)    
         self.__number_pages = 0
         self.set_number_pages(number_pages)
@@ -30,7 +30,7 @@ class Publication:
     
     def set_number_pages(self, number_pages):      #setter for the number of pages in the book
         if number_pages >= 0:
-            self.__number_pages = number_pages      #checking to make sure the number of pages is not negative and if it is not then it will set the number of pages to the value given
+            self.__number_pages = number_pages      #here we are checking to make sure the number of pages is not negative and if it is not then it will set the number of pages to the value given
         else:
             print("Number of pages must be a non-negative value (positive integer).")
             
