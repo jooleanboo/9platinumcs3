@@ -1,7 +1,9 @@
 # Computer Science 3 Portfolio
 ## Student Information
 **Name:** Julian Xander Bonaobra
+
 **Section:** Platinum
+
 **School Year:** 2026-2027
 
 ---
